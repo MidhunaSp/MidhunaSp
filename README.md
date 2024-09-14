@@ -35,6 +35,8 @@
 
 
 ![image](https://github.com/user-attachments/assets/122c07fa-944c-404d-b607-e1fda0dd14b1)
+<h3 align="left">HackerRank Certifications:</h3>
+![image](https://github.com/user-attachments/assets/f60ce320-2b79-4ad4-9d8d-f577a986b8a0)
 
 
 
