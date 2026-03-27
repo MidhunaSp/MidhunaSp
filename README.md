@@ -25,10 +25,9 @@
 
 <h3 align="left">LeetCode Submissions:</h3>
 
+<img width="1058" height="244" alt="image" src="https://github.com/user-attachments/assets/f41e4182-37ce-4b30-a6d3-e7615d57b13f" />
 
-![image](https://github.com/user-attachments/assets/b769ab33-9a50-4421-942e-d395b2950f3f)
-![image](https://github.com/user-attachments/assets/6d992ddd-5fda-4c3e-b3bc-6ddda15f648c)
-
+<img width="1057" height="253" alt="image" src="https://github.com/user-attachments/assets/08154144-85b5-4c0a-8cf3-8abe9bc2bb5d" />
 
 <h3 align="left">HackerRank Dashboard:</h3>
 
