@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MidhunaSp&label=Profile%20views&color=0e75b6&style=flat" alt="midhunasp" /> </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MidhunaSp&show_icons=true&theme=radical" alt="MidhunaSp's GitHub stats" />
+  <img src="https://img.shields.io/badge/Main_Language-Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" />
 </p>
 
 - 🔭 I’m currently working on **MERN Projects**
