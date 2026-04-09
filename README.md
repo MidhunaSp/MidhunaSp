@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MidhunaSp&label=Profile%20views&color=0e75b6&style=flat" alt="midhunasp" /> </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MidhunaSp&theme=juicy)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MidhunaSp&show_icons=true&theme=radical" alt="MidhunaSp's GitHub stats" />
+</p>
 
 - 🔭 I’m currently working on **MERN Projects**
 
