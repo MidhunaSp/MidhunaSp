@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midhunasp&label=Profile%20views&color=0e75b6&style=flat" alt="midhunasp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhunasp" alt="midhunasp" /></a> 
-
-[![stargazers](https://img.shields.io/github/stars/MidhunaSp/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/MidhunaSp/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
-[![license](https://img.shields.io/github/license/MidhunaSp/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
-
-</p>
+<p align="left"> <a href="https://github.com/MidhunaSp/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhunasp" alt="midhunasp" /></a></p>
 
 - 🔭 I’m currently working on **MERN Projects**
 
