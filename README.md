@@ -8,15 +8,15 @@
   <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" />
 </p>
 
-- 🔭 I’m currently working on **MERN Projects**
+🔭 I’m currently working on **Java and Js Projects**
 
-- 🌱 I’m currently learning **Bootstrap,Axios,FullStack**
+🌱 I’m currently learning **JavaScript Node Axios,Backend**
 
-- 👯 I’m looking to collaborate on **MERN/Web based Projects**
+👯 I’m looking to collaborate on **Full Stack / Web Development Projects**
 
-- 💬 Ask me about **IT**
+💬 Ask me about **Full Stack Development, Selenium, Cucumber (BDD), TestNG, Automation Testing**
 
-- 📫 How to reach me **midhunavarshini192@gmail.com**
+📫 How to reach me **midhunavarshini192@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
