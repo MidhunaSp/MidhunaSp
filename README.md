@@ -95,7 +95,7 @@ An AI-powered system designed to process enterprise documents and deliver accura
 
 <div align="center">
 
-<img src="leetcode-stats.png" width="45%" />
+<img src="Screenshot 2026-07-17 084028.png" width="45%" />
 <img src="hackerrank-stats.png" width="45%" />
 
 </div>
