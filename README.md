@@ -4,9 +4,9 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/EMAIL-3DDC97?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midhunasp.github.io/MyPortfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhuna-varshini/)
+[![Email](https://img.shields.io/badge/EMAIL-3DDC97?style=for-the-badge&logo=gmail&logoColor=white)](midhunavarshini192@gmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About
 
-I'm a final year engineering student passionate about building real-world applications using **Full Stack Development** and **Generative AI**.
+I'm an engineering student passionate about building real-world applications using **Full Stack Development** and **Generative AI**.
 
 Currently, I'm exploring how GenAI and LLMs can be used to build intelligent, context-aware systems that go beyond traditional applications.
 
@@ -84,9 +84,9 @@ An AI-powered system designed to process enterprise documents and deliver accura
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2&ext=heatmap)](https://leetcode.com/u/Midhuna_13/)
 
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)]((https://www.hackerrank.com/profile/midhunavarshini3))
 
 </div>
 
@@ -115,11 +115,11 @@ An AI-powered system designed to process enterprise documents and deliver accura
 
 ## 📫 Connect
 
-- 💼 **LinkedIn:** _(Add your link)_
-- 📧 **Email:** _(Add your email)_
+- 💼 **LinkedIn:** _(https://www.linkedin.com/in/midhuna-varshini/)_
+- 📧 **Email:** _(midhunavarshini192@gmail.com)_
 
 <br/>
 
 <div align="center">
-<i>⭐ Always building. Always learning. Exploring Generative AI.</i>
+<i>⭐ Always building! Always learning!! </i>
 </div>
