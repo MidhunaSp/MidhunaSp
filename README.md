@@ -107,16 +107,15 @@ An AI-powered system designed to process enterprise documents and deliver accura
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MidhunaSp&show_icons=true&theme=dark" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MidhunaSp&show_icons=true&theme=dark" />
+
+<!-- Streak -->
+<img width="48%" src="https://streak-stats.demolab.com?user=MidhunaSp&theme=dark" />
+
 <br/><br/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=MidhunaSp&theme=github-dark-blue" />
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MidhunaSp&theme=github-dark" />
+<!-- Top Languages -->
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MidhunaSp&layout=compact&theme=dark" />
 
 </div>
 
