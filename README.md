@@ -3,12 +3,28 @@
 <img src="terminal-card.svg" width="850" alt="Midhuna's Terminal Card" />
 
 <br/><br/>
+<h1 align="center">Midhuna Varshini S P</h1>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midhunasp.github.io/MyPortfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhuna-varshini/)
-[![Email](https://img.shields.io/badge/EMAIL-3DDC97?style=for-the-badge&logo=gmail&logoColor=white)](midhunavarshini192@gmail.com)
+<p align="center">
+Final Year Student • Full Stack Developer • GenAI Learner
+</p>
 
-</div>
+<p align="center">
+  <a href="https://midhunasp.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MidhunaSp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/midhuna-varshini/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:midhunavarshini192@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
 
 <br/>
 
