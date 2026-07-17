@@ -4,9 +4,9 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/EMAIL-3DDC97?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Portfolio]([https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midhunasp.github.io/MyPortfolio/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/midhuna-varshini/))
+[![Email](https://img.shields.io/badge/EMAIL-3DDC97?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midhunavarshini192@gmail.com)
 
 </div>
 
