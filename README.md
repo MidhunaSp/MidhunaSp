@@ -106,10 +106,17 @@ An AI-powered system designed to process enterprise documents and deliver accura
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MidhunaSp&show_icons=true&theme=dark" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=MidhunaSp&show_icons=true&theme=github_dark" />
 
-<img src="https://streak-stats.demolab.com?user=MidhunaSp&theme=dark" />
+<br/><br/>
 
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=MidhunaSp&theme=github-dark-blue" />
+
+<br/><br/>
+
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MidhunaSp&theme=github-dark" />
 
 </div>
