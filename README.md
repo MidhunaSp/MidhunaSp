@@ -84,9 +84,8 @@ An AI-powered system designed to process enterprise documents and deliver accura
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2&ext=heatmap)](https://leetcode.com/u/Midhuna_13/)
-
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)]((https://www.hackerrank.com/profile/midhunavarshini3))
+<img src="leetcode-stats.png" width="48%" alt="LeetCode Stats" />
+<img src="hackerrank-stats.png" width="48%" alt="HackerRank Stats" />
 
 </div>
 
@@ -96,8 +95,7 @@ An AI-powered system designed to process enterprise documents and deliver accura
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true" width="48%" />
+<img src="github-stats.png" width="80%" alt="GitHub Stats" />
 
 </div>
 
