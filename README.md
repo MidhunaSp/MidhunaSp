@@ -1,9 +1,7 @@
 ### MidhunaSp / README.md
 
 <div align="center">
-
 <img src="terminal-card.svg" width="760" alt="Midhuna's Terminal Card" />
-
 <br/><br/>
 
 <h1>Midhuna Varshini S P</h1>
