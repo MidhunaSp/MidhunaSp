@@ -7,7 +7,7 @@
 <h1>Midhuna Varshini S P</h1>
 
 <p>
-Final Year Student • Full Stack Developer • GenAI Learner
+Final Year Student • JAVA • Automation Testing(Selenium) • AWS/MS certified • GenAI Learner
 </p>
 
 <p>
