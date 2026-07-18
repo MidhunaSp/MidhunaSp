@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="terminal-card.svg" width="850" alt="Midhuna's Terminal Card" />
+<img src="terminal-card.svg" width="760" alt="Midhuna's Terminal Card" />
 
 <br/><br/>
 
