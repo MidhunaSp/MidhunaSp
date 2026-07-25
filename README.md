@@ -9,7 +9,7 @@ Final Year Student • JAVA • Automation Testing(Selenium) • AWS/MS certifie
 </p>
 
 <p>
-  <a href="https://midhunasp.github.io/MyPortfolio/">
+  <a href="https://midhunasp.github.io/midhuna-s-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/MidhunaSp">
