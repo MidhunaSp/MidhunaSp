@@ -100,22 +100,6 @@ An AI-powered system designed to process enterprise documents and deliver accura
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MidhunaSp&show_icons=true&theme=dark" />
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MidhunaSp&layout=compact&theme=dark" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MidhunaSp&theme=github-dark" />
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - Generative AI and LLM-based application development  
